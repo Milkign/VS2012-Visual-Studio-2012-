@@ -7,7 +7,9 @@
 
 下载后是一个iso文件，将文件解压，然后点击vs_ultimate.exe进行下载。
 
-# 密钥
+# VS2012 (Visual Studio 2012)产品密钥
 YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
+
 RBCXF-CVBGR-382MK-DFHJ4-C69G8
+
 YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
